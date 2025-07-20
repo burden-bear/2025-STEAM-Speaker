@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TAS5828M")(type "KiCad")(uri "${KIPRJMOD}/sym/2025-02-21_00-23-08.kicad_sym")(options "")(descr ""))
+)
